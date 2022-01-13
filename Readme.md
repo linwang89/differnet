@@ -1,3 +1,4 @@
+![img_1.png](img_1.png)
 # DifferNet
 
 This is the official repository to the WACV 2021 paper "[Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](
